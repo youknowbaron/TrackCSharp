@@ -1,0 +1,14 @@
+/home/baron/exercism/csharp/04gigasecond/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/baron/exercism/csharp/04gigasecond/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/baron/exercism/csharp/04gigasecond/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/baron/exercism/csharp/04gigasecond/bin/Debug/netcoreapp2.1/Gigasecond.deps.json
+/home/baron/exercism/csharp/04gigasecond/bin/Debug/netcoreapp2.1/Gigasecond.runtimeconfig.json
+/home/baron/exercism/csharp/04gigasecond/bin/Debug/netcoreapp2.1/Gigasecond.runtimeconfig.dev.json
+/home/baron/exercism/csharp/04gigasecond/bin/Debug/netcoreapp2.1/Gigasecond.dll
+/home/baron/exercism/csharp/04gigasecond/bin/Debug/netcoreapp2.1/Gigasecond.pdb
+/home/baron/exercism/csharp/04gigasecond/obj/Debug/netcoreapp2.1/Gigasecond.csprojAssemblyReference.cache
+/home/baron/exercism/csharp/04gigasecond/obj/Debug/netcoreapp2.1/Gigasecond.csproj.CoreCompileInputs.cache
+/home/baron/exercism/csharp/04gigasecond/obj/Debug/netcoreapp2.1/Gigasecond.AssemblyInfoInputs.cache
+/home/baron/exercism/csharp/04gigasecond/obj/Debug/netcoreapp2.1/Gigasecond.AssemblyInfo.cs
+/home/baron/exercism/csharp/04gigasecond/obj/Debug/netcoreapp2.1/Gigasecond.dll
+/home/baron/exercism/csharp/04gigasecond/obj/Debug/netcoreapp2.1/Gigasecond.pdb

@@ -1,0 +1,14 @@
+/home/baron/exercism/csharp/06space-age/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/baron/exercism/csharp/06space-age/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/baron/exercism/csharp/06space-age/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/baron/exercism/csharp/06space-age/bin/Debug/netcoreapp2.1/SpaceAge.deps.json
+/home/baron/exercism/csharp/06space-age/bin/Debug/netcoreapp2.1/SpaceAge.runtimeconfig.json
+/home/baron/exercism/csharp/06space-age/bin/Debug/netcoreapp2.1/SpaceAge.runtimeconfig.dev.json
+/home/baron/exercism/csharp/06space-age/bin/Debug/netcoreapp2.1/SpaceAge.dll
+/home/baron/exercism/csharp/06space-age/bin/Debug/netcoreapp2.1/SpaceAge.pdb
+/home/baron/exercism/csharp/06space-age/obj/Debug/netcoreapp2.1/SpaceAge.csprojAssemblyReference.cache
+/home/baron/exercism/csharp/06space-age/obj/Debug/netcoreapp2.1/SpaceAge.csproj.CoreCompileInputs.cache
+/home/baron/exercism/csharp/06space-age/obj/Debug/netcoreapp2.1/SpaceAge.AssemblyInfoInputs.cache
+/home/baron/exercism/csharp/06space-age/obj/Debug/netcoreapp2.1/SpaceAge.AssemblyInfo.cs
+/home/baron/exercism/csharp/06space-age/obj/Debug/netcoreapp2.1/SpaceAge.dll
+/home/baron/exercism/csharp/06space-age/obj/Debug/netcoreapp2.1/SpaceAge.pdb

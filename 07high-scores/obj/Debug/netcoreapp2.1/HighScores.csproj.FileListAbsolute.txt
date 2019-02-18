@@ -1,0 +1,14 @@
+/home/baron/exercism/csharp/07high-scores/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/baron/exercism/csharp/07high-scores/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/baron/exercism/csharp/07high-scores/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/baron/exercism/csharp/07high-scores/bin/Debug/netcoreapp2.1/HighScores.deps.json
+/home/baron/exercism/csharp/07high-scores/bin/Debug/netcoreapp2.1/HighScores.runtimeconfig.json
+/home/baron/exercism/csharp/07high-scores/bin/Debug/netcoreapp2.1/HighScores.runtimeconfig.dev.json
+/home/baron/exercism/csharp/07high-scores/bin/Debug/netcoreapp2.1/HighScores.dll
+/home/baron/exercism/csharp/07high-scores/bin/Debug/netcoreapp2.1/HighScores.pdb
+/home/baron/exercism/csharp/07high-scores/obj/Debug/netcoreapp2.1/HighScores.csprojAssemblyReference.cache
+/home/baron/exercism/csharp/07high-scores/obj/Debug/netcoreapp2.1/HighScores.csproj.CoreCompileInputs.cache
+/home/baron/exercism/csharp/07high-scores/obj/Debug/netcoreapp2.1/HighScores.AssemblyInfoInputs.cache
+/home/baron/exercism/csharp/07high-scores/obj/Debug/netcoreapp2.1/HighScores.AssemblyInfo.cs
+/home/baron/exercism/csharp/07high-scores/obj/Debug/netcoreapp2.1/HighScores.dll
+/home/baron/exercism/csharp/07high-scores/obj/Debug/netcoreapp2.1/HighScores.pdb

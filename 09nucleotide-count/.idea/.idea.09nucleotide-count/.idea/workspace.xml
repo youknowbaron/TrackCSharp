@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dff83e7-6504-4ccb-9237-26095cc3e554" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../06space-age/.idea/.idea.06space-age/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06space-age/.idea/.idea.06space-age/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07high-scores/.idea/.idea.07high-scores/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../07high-scores/.idea/.idea.07high-scores/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08hamming/.idea/.idea.08hamming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../08hamming/.idea/.idea.08hamming/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NucleotideCountTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-400">
+              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+              <folding>
+                <marker date="1550588393063" expanded="false" signature="85:139" ph="..." />
+                <marker date="1550588393063" expanded="true" signature="173:1591" ph="{...}" />
+                <marker date="1550588393063" expanded="true" signature="217:449" ph="{...}" />
+                <marker date="1550588393063" expanded="true" signature="281:383" ph="{...}" />
+                <marker date="1550588393063" expanded="true" signature="530:763" ph="{...}" />
+                <marker date="1550588393063" expanded="true" signature="594:696" ph="{...}" />
+                <marker date="1550588393063" expanded="true" signature="825:1064" ph="{...}" />
+                <marker date="1550588393063" expanded="true" signature="889:991" ph="{...}" />
+                <marker date="1550588393063" expanded="true" signature="1127:1433" ph="{...}" />
+                <marker date="1550588393063" expanded="true" signature="1191:1297" ph="{...}" />
+                <marker date="1550588393063" expanded="true" signature="1495:1589" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NucleotideCount.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+              <folding>
+                <marker date="1550588432243" expanded="false" signature="6:47" ph="..." />
+                <marker date="1550588432243" expanded="true" signature="84:970" ph="{...}" />
+                <marker date="1550588432243" expanded="true" signature="150:968" ph="{...}" />
+                <marker date="1550588432243" expanded="true" signature="216:318" ph="{...}" />
+                <marker date="1550588432243" expanded="true" signature="392:934" ph="{...}" />
+                <marker date="1550588432243" expanded="true" signature="425:924" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F313389-7900-4F7A-BB2F-B2E504C2B4B6/b1/3c8b2b32/IDictionary`2.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/NucleotideCount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F313389-7900-4F7A-BB2F-B2E504C2B4B6/b1/3c8b2b32/IDictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NucleotideCountTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F313389-7900-4F7A-BB2F-B2E504C2B4B6/38/b9858301/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/NucleotideCountTest.cs" />
+        <option value="$PROJECT_DIR$/NucleotideCount.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="1910" />
+    <option name="height" value="1006" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="NucleotideCount" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dff83e7-6504-4ccb-9237-26095cc3e554" name="Default Changelist" comment="" />
+      <created>1550507561446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550507561446</updated>
+      <workItem from="1550507562571" duration="142000" />
+      <workItem from="1550507794968" duration="127000" />
+      <workItem from="1550587764550" duration="685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="954000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1007" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3290398" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F313389-7900-4F7A-BB2F-B2E504C2B4B6/38/b9858301/Dictionary`2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F313389-7900-4F7A-BB2F-B2E504C2B4B6/b1/3c8b2b32/IDictionary`2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NucleotideCountTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <marker date="1550588393063" expanded="false" signature="85:139" ph="..." />
+            <marker date="1550588393063" expanded="true" signature="173:1591" ph="{...}" />
+            <marker date="1550588393063" expanded="true" signature="217:449" ph="{...}" />
+            <marker date="1550588393063" expanded="true" signature="281:383" ph="{...}" />
+            <marker date="1550588393063" expanded="true" signature="530:763" ph="{...}" />
+            <marker date="1550588393063" expanded="true" signature="594:696" ph="{...}" />
+            <marker date="1550588393063" expanded="true" signature="825:1064" ph="{...}" />
+            <marker date="1550588393063" expanded="true" signature="889:991" ph="{...}" />
+            <marker date="1550588393063" expanded="true" signature="1127:1433" ph="{...}" />
+            <marker date="1550588393063" expanded="true" signature="1191:1297" ph="{...}" />
+            <marker date="1550588393063" expanded="true" signature="1495:1589" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NucleotideCount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding>
+            <marker date="1550588432243" expanded="false" signature="6:47" ph="..." />
+            <marker date="1550588432243" expanded="true" signature="84:970" ph="{...}" />
+            <marker date="1550588432243" expanded="true" signature="150:968" ph="{...}" />
+            <marker date="1550588432243" expanded="true" signature="216:318" ph="{...}" />
+            <marker date="1550588432243" expanded="true" signature="392:934" ph="{...}" />
+            <marker date="1550588432243" expanded="true" signature="425:924" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

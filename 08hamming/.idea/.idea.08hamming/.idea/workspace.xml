@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add3dbe3-08bd-418e-8b97-21fb4a0c6d6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.08hamming/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.08hamming/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.08hamming/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.08hamming/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../06space-age/.idea/.idea.06space-age/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06space-age/.idea/.idea.06space-age/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../07high-scores/.idea/.idea.07high-scores/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../07high-scores/.idea/.idea.07high-scores/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -20,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Hamming.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state relative-caret-position="396">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <marker date="1550506781615" expanded="true" signature="42:507" ph="{...}" />
                 <marker date="1550506781615" expanded="true" signature="116:505" ph="{...}" />
@@ -107,6 +103,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../09nucleotide-count" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -132,12 +129,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550504899390</updated>
-      <workItem from="1550504900539" duration="1890000" />
+      <workItem from="1550504900539" duration="2661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1890000" />
+    <option name="totallyTimeSpent" value="2661000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -150,6 +147,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1007" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -222,8 +220,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hamming.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="396">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
             <marker date="1550506781615" expanded="true" signature="42:507" ph="{...}" />
             <marker date="1550506781615" expanded="true" signature="116:505" ph="{...}" />

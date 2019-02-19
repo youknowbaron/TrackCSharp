@@ -2,32 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17d7114d-a6da-481e-b57a-d881bafa8ced" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../06space-age/.idea/.idea.06space-age/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.07high-scores/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.07high-scores/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.high-scores/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.high-scores/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.high-scores/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.high-scores/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.high-scores/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.high-scores/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.high-scores/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.high-scores/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HighScores.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HighScores.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HighScoresTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/HighScores.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/HighScores.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/HighScores.Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/HighScores.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/HighScores.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/HighScores.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/HighScores.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/HighScores.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../06space-age/.idea/.idea.06space-age/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06space-age/.idea/.idea.06space-age/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,57 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HighScores.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-              <folding>
-                <marker date="1550503817626" expanded="false" signature="6:66" ph="..." />
-                <marker date="1550503817626" expanded="true" signature="91:1137" ph="{...}" />
-                <marker date="1550503817626" expanded="true" signature="161:200" ph="{...}" />
-                <marker date="1550503817626" expanded="true" signature="231:265" ph="{...}" />
-                <marker date="1550503817626" expanded="true" signature="290:341" ph="{...}" />
-                <marker date="1550503817626" expanded="true" signature="372:548" ph="{...}" />
-                <marker date="1550503817626" expanded="true" signature="443:521" ph="{...}" />
-                <marker date="1550503817626" expanded="true" signature="584:1050" ph="{...}" />
-                <marker date="1550503817626" expanded="true" signature="666:1020" ph="{...}" />
-                <marker date="1550503817626" expanded="true" signature="712:865" ph="{...}" />
-                <marker date="1550503817626" expanded="true" signature="766:848" ph="{...}" />
-                <marker date="1550503817626" expanded="true" signature="906:1010" ph="{...}" />
-                <marker date="1550503817626" expanded="true" signature="1078:1135" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HighScoresTest.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-              <folding>
-                <marker date="1550501226329" expanded="false" signature="85:125" ph="..." />
-                <marker date="1550501226329" expanded="true" signature="154:2706" ph="{...}" />
-                <marker date="1550501226329" expanded="true" signature="200:350" ph="{...}" />
-                <marker date="1550501226329" expanded="true" signature="393:513" ph="{...}" />
-                <marker date="1550501226329" expanded="true" signature="557:681" ph="{...}" />
-                <marker date="1550501226329" expanded="true" signature="724:871" ph="{...}" />
-                <marker date="1550501226329" expanded="true" signature="932:1079" ph="{...}" />
-                <marker date="1550501226329" expanded="true" signature="1142:1293" ph="{...}" />
-                <marker date="1550501226329" expanded="true" signature="1363:1502" ph="{...}" />
-                <marker date="1550501226329" expanded="true" signature="1568:1699" ph="{...}" />
-                <marker date="1550501226329" expanded="true" signature="1759:1947" ph="{...}" />
-                <marker date="1550501226329" expanded="true" signature="2007:2182" ph="{...}" />
-                <marker date="1550501226329" expanded="true" signature="2263:2451" ph="{...}" />
-                <marker date="1550501226329" expanded="true" signature="2516:2704" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -124,17 +48,7 @@
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="07high-scores" type="34e6ba20:FileSystemExplorerNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -153,6 +67,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../08hamming" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -178,12 +93,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550500575221</updated>
-      <workItem from="1550500576391" duration="2675000" />
+      <workItem from="1550500576391" duration="3742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2675000" />
+    <option name="totallyTimeSpent" value="3742000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -200,13 +115,13 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" weight="0.3290398" />
       <window_info anchor="bottom" id="Unit Tests" weight="0.3290398" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3290398" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3290398" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Build" />
@@ -377,10 +292,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HighScores.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+          <folding>
+            <marker date="1550504743430" expanded="false" signature="6:66" ph="..." />
+            <marker date="1550504743430" expanded="true" signature="91:1618" ph="{...}" />
+            <marker date="1550504743430" expanded="true" signature="161:200" ph="{...}" />
+            <marker date="1550504743430" expanded="true" signature="231:265" ph="{...}" />
+            <marker date="1550504743430" expanded="true" signature="290:341" ph="{...}" />
+            <marker date="1550504743430" expanded="true" signature="372:548" ph="{...}" />
+            <marker date="1550504743430" expanded="true" signature="443:521" ph="{...}" />
+            <marker date="1550504743430" expanded="true" signature="584:1177" ph="{...}" />
+            <marker date="1550504743430" expanded="true" signature="666:1146" ph="{...}" />
+            <marker date="1550504743430" expanded="true" signature="1205:1616" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HighScoresTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="268">
+          <caret line="81" column="87" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="87" />
           <folding>
             <marker date="1550501226329" expanded="false" signature="85:125" ph="..." />
             <marker date="1550501226329" expanded="true" signature="154:2706" ph="{...}" />
@@ -396,28 +330,6 @@
             <marker date="1550501226329" expanded="true" signature="2007:2182" ph="{...}" />
             <marker date="1550501226329" expanded="true" signature="2263:2451" ph="{...}" />
             <marker date="1550501226329" expanded="true" signature="2516:2704" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HighScores.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-          <folding>
-            <marker date="1550503817626" expanded="false" signature="6:66" ph="..." />
-            <marker date="1550503817626" expanded="true" signature="91:1137" ph="{...}" />
-            <marker date="1550503817626" expanded="true" signature="161:200" ph="{...}" />
-            <marker date="1550503817626" expanded="true" signature="231:265" ph="{...}" />
-            <marker date="1550503817626" expanded="true" signature="290:341" ph="{...}" />
-            <marker date="1550503817626" expanded="true" signature="372:548" ph="{...}" />
-            <marker date="1550503817626" expanded="true" signature="443:521" ph="{...}" />
-            <marker date="1550503817626" expanded="true" signature="584:1050" ph="{...}" />
-            <marker date="1550503817626" expanded="true" signature="666:1020" ph="{...}" />
-            <marker date="1550503817626" expanded="true" signature="712:865" ph="{...}" />
-            <marker date="1550503817626" expanded="true" signature="766:848" ph="{...}" />
-            <marker date="1550503817626" expanded="true" signature="906:1010" ph="{...}" />
-            <marker date="1550503817626" expanded="true" signature="1078:1135" ph="{...}" />
           </folding>
         </state>
       </provider>
